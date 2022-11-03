@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lalithmadhavpeddareddygari
 - 👀 I’m interested in enjoying life, soccer, f1, cricket
-- 🌱 I’m currently learning coding in python and deep learning as I found them to be fascinating
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning coding in c++, python and deep learning as I found them to be fascinating
+- 💞️ I’m looking to collaborate on real life projects that add value to the world
 - 📫 How to reach me email @plalith200@gmail.com
 
 <!---
